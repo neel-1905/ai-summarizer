@@ -8,7 +8,9 @@ const Hero = () => {
 
         <button
           type="button"
-          onClick={() => window.open("/")}
+          onClick={() =>
+            window.open("https://github.com/neel-1905/ai-summarizer")
+          }
           className="black_btn"
         >
           Github
